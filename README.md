@@ -1,4 +1,6 @@
 Face Recognition System
+
+
 This project implements a simple face recognition system using OpenCV. The system captures images, trains a face recognition model using LBPH (Local Binary Patterns Histograms), and recognizes faces in real-time through a webcam.
 
 Features
